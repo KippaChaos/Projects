@@ -1,0 +1,10 @@
+#container{
+    background-color: beige;
+    width: auto;
+}
+
+.page{
+    background-color: rgb(107, 246, 246);
+    width: auto;
+    height: 861px;
+}
