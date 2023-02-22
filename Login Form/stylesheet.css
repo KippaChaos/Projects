@@ -1,3 +1,8 @@
+*{
+    margin: auto;
+    padding: 0;
+}
+
 #container{
     background-color: beige;
     width: auto;
@@ -7,4 +12,9 @@
     background-color: rgb(107, 246, 246);
     width: auto;
     height: 861px;
+}
+
+.dashboard{
+    display: flex;
+    align-items: center;
 }
